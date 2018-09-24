@@ -12,6 +12,7 @@ namespace T9
         {
             Console.WriteLine("test");
             Console.WriteLine("test");
+            Console.ReadLine();
 
         }
     }
